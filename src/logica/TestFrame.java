@@ -22,7 +22,7 @@ public class TestFrame extends JFrame {
 		contentPane.setLayout(null);
 
 		JLabel lblText = new JLabel("TEXT");
-		lblText.setBounds(166, 159, 89, 14);
+		lblText.setBounds(166, 123, 89, 14);
 		contentPane.add(lblText);
 		lblText.setText("");
 
